@@ -1,110 +1,55 @@
-<div align="center">
+# Hi, I'm Kunal Chauhan 👋
 
-```
-██╗  ██╗██╗   ██╗███╗   ██╗ █████╗ ██╗      
-██║ ██╔╝██║   ██║████╗  ██║██╔══██╗██║      
-█████╔╝ ██║   ██║██╔██╗ ██║███████║██║      
-██╔═██╗ ██║   ██║██║╚██╗██║██╔══██║██║      
-██║  ██╗╚██████╔╝██║ ╚████║██║  ██║███████╗ 
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
-```
+I'm a **BCA student** at COER University, Roorkee with a passion for building full-stack web applications. I love turning ideas into real products — from hospital systems to fitness platforms.
 
-### 👋 Hey, I'm **Kunal Chauhan** — a Full-Stack Dev in the making
-
-🎓 BCA Student @ **COER University, Roorkee** &nbsp;|&nbsp; CGPA: **9.0**  
-🏆 Hackathon **Runner-Up** &nbsp;|&nbsp; 180+ Contributions in 2026  
-📍 Najibabad, UP &nbsp;→&nbsp; Currently in Roorkee, UK  
-
----
-
-</div>
-
-## 🚀 About Me
-
-I'm a passionate developer who loves turning ideas into real, working products. From hospital management systems to fitness platforms, I enjoy building full-stack web apps that solve real problems.
-
-- 🔭 Currently working on **full-stack projects** using React + Node.js
-- 🌱 Learning **TypeScript** & deepening my knowledge of cloud with **Azure**
-- 💡 Interested in **Web Development**, **Open Source**, and **Problem Solving**
-- ⚡ Fun fact: I debug faster with lo-fi music on 🎧
+- 🎓 BCA @ COER University, Roorkee | CGPA: **9.0**
+- 💻 Full-Stack Developer — React, Node.js, MongoDB
+- 🏆 Hackathon Runner-Up @ COER University
+- 📍 Najibabad, UP → Currently in Roorkee, UK
+- 📬 chauhankunal695@gmail.com
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🏥 [lifeline-hospital](https://github.com/Deadraon/lifeline-hospital) | Hospital management web app with patient & doctor modules | TypeScript |
-| 🏥 [om_chaudhary_hospital](https://github.com/Deadraon/om_chaudhary_hospital) | Full hospital website with appointment booking | JavaScript |
-| 💪 [shivaay_fitness](https://github.com/Deadraon/shivaay_fitness) | Gym & fitness platform with class scheduling | JavaScript |
-| 🏨 [hotel_test_full](https://github.com/Deadraon/hotel_test_full) | Hotel booking & management system | JavaScript |
-| 📚 [coaching_test_web](https://github.com/Deadraon/coaching_test_web) | Coaching institute web platform | JavaScript |
-| 🏡 [rustic-house_build](https://github.com/Deadraon/rustic-house_build) | Real estate / construction showcase site | CSS |
+| Project | Tech | Description |
+|---|---|---|
+| [lifeline-hospital](https://github.com/Deadraon/lifeline-hospital) | TypeScript | Hospital management web app |
+| [om_chaudhary_hospital](https://github.com/Deadraon/om_chaudhary_hospital) | JavaScript | Hospital website with appointment booking |
+| [shivaay_fitness](https://github.com/Deadraon/shivaay_fitness) | JavaScript | Gym & fitness platform |
+| [hotel_test_full](https://github.com/Deadraon/hotel_test_full) | JavaScript | Hotel booking & management system |
+| [coaching_test_web](https://github.com/Deadraon/coaching_test_web) | JavaScript | Coaching institute platform |
+| [rustic-house_build](https://github.com/Deadraon/rustic-house_build) | CSS | Real estate showcase site |
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
+## 📊 Stats
 
 ![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deadraon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deadraon&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Deadraon&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
-## 🏆 Achievements
+## 🔗 Connect
 
-- 🥈 **2nd Place** — College Hackathon (COER University)
-- 📜 **Java & MySQL** Training — College Internship Program
-- 💯 **9.0 CGPA** — Consistently top performer
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deadraon)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deadraon)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chauhankunal695@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deadraon&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  
-  *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deadraon)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chauhankunal695@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deadraon)
