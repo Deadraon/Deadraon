@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38,59&height=190&section=header&text=Kunal%20Chauhan&fontSize=42&fontColor=ffffff&fontAlignY=34&desc=Founder%20%40%20MyMobPay%20%7C%20Full-Stack%20Fintech%20Engineer%20%7C%20BCA%20Scholar&descAlignY=58&descSize=16&descColor=60A5FA"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Founder+%26+Lead+Architect+%40+MyMobPay+(mymob.tech)+⚡;Building+Zero-Commission+UPI+Payment+Rail+Systems+💳;Next.js+14+%7C+Supabase+%7C+Node.js+%7C+Edge+Security+🛡️;BCA+Candidate+%40+COER+University+(CGPA+9.0%2F10)+🎓;Featured+in+Google+Search+%26+Google+AI+Overview+🚀)](https://mymob.tech)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Founder+%26+Lead+Architect+%40+MyMobPay++⚡;Building+Zero-Commission+UPI+Payment+Rail+Systems+💳;Next.js+14+%7C+Supabase+%7C+Node.js+%7C+Edge+Security+🛡️;BCA+Candidate+%40+COER+University+(CGPA+9.0%2F10)+🎓;Featured+in+Google+Search+%26+Google+AI+Overview+🚀)](https://mymob.tech)
 
 <p align="center">
   <a href="https://deadraon.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-deadraon.dev-059669?style=for-the-badge&logo=safari&logoColor=white" /></a>
