@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Founder+%26+Lead+Architect+%40+MyMobPay+(mymob.tech)+⚡;Building+Zero-Commission+UPI+Payment+Rail+Systems+💳;Next.js+14+%7C+Supabase+%7C+Node.js+%7C+Edge+Security+🛡️;BCA+Candidate+%40+COER+University+(CGPA+9.0%2F10)+🎓;Featured+in+Google+Search+%26+Google+AI+Overview+🚀)](https://mymob.tech)
 
 <p align="center">
-  <a href="https://mymob.tech" target="_blank"><img src="https://img.shields.io/badge/Live_SaaS-mymob.tech-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://deadraon.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-deadraon.dev-059669?style=for-the-badge&logo=safari&logoColor=white" /></a>
   <a href="https://linkedin.com/in/deadraon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:chauhankunal695@gmail.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -15,7 +14,7 @@
 
 ---
 
-### 🚀 Flagship Project: [MyMobPay (`mymobpay`)](https://mymob.tech)
+### 🚀 Flagship Project: [MyMobPay (`mymobpay`)]
 > **Direct-to-Bank UPI Payment Gateway Infrastructure for Indian SaaS Founders & Merchants**  
 > *0% Transaction Commission (0% MDR) • Instant Settlement • Non-Custodial • HMAC-SHA256 Signed Webhooks*  
 > 🔍 **Recognized by Google**: Search `mymobpay upi payment` on Google to see the live **Google AI Overview** featuring the platform.
@@ -29,7 +28,7 @@ Universal UPI Checkout (GPay / PhonePe / Paytm / CRED) ──> Direct Merchant B
 
 ## 👨‍💻 Executive Summary
 
-* 💼 **Founder & Lead Developer** at **[MyMobPay](https://mymob.tech)** — architecting high-reliability, zero-custody digital payment solutions for indie builders.
+* 💼 **Founder & Lead Developer** at **[MyMobPay]** — architecting high-reliability, zero-custody digital payment solutions for indie builders.
 * 🎓 **BCA Scholar** at **COER University, Roorkee** — maintaining a **9.0 / 10 CGPA**.
 * 🛡️ **Technical Focus**: High-concurrency backend services, cryptographic webhook signing (HMAC-SHA256), edge Web Application Firewalls (WAF), and Next.js 14 full-stack systems.
 * 🏆 **Hackathon Runner-Up** at COER University with multiple competitive development recognitions.
@@ -61,7 +60,7 @@ Universal UPI Checkout (GPay / PhonePe / Paytm / CRED) ──> Direct Merchant B
 
 | Project | Highlights & Architecture | Tech Stack | Live Demo |
 |:---|:---|:---:|:---:|
-| [**MyMobPay (`mymobpay`)**](https://github.com/Deadraon/Upi_payment-page) | 0% commission UPI payment gateway with automated UTR reconciliation, edge WAF, and signed webhooks. | `Next.js 14` `Supabase` `PostgreSQL` `Tailwind` | [**Live Site**](https://mymob.tech) |
+| [**MyMobPay (`mymobpay`)**](https://github.com/Deadraon/Upi_payment-page) | 0% commission UPI payment gateway with automated UTR reconciliation, edge WAF, and signed webhooks. | `Next.js 14` `Supabase` `PostgreSQL` `Tailwind` | [**Live Site**]|
 | [**lifeline-hospital**](https://github.com/Deadraon/lifeline-hospital) | Full-cycle hospital management system with role-based doctor, patient, and billing portals. | `TypeScript` `React` `Node.js` `MongoDB` | [**GitHub**](https://github.com/Deadraon/lifeline-hospital) |
 | [**om_chaudhary_hospital**](https://github.com/Deadraon/om_chaudhary_hospital) | Modern clinical management suite featuring real-time appointment scheduling and automated notifications. | `React` `JavaScript` `Node.js` | [**GitHub**](https://github.com/Deadraon/om_chaudhary_hospital) |
 | [**shivaay_fitness**](https://github.com/Deadraon/shivaay_fitness) | High-performance gym management and membership tracking web application. | `JavaScript` `CSS3` `Express` | [**GitHub**](https://github.com/Deadraon/shivaay_fitness) |
